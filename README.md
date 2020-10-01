@@ -1,9 +1,9 @@
-bosh-website
+Bosh-website
 ============
 
 [bosh homepage](http://bosh.cloudfoundry.org) 
 
-this site is developed with spring boot. all html and web assets go in the `public` folder.
+This site is developed with spring boot. all html and web assets go in the `public` folder.
 
 prereqs
 =======
@@ -12,14 +12,14 @@ prereqs
 development instructions
 ========================
 
-- clone this repository
-- make changes to the web assets in the `public` folder
-- preview them with `spring run app.groovy` and look at localhost:8080
+- Clone this repository
+- Make changes to the web assets in the `public` folder
+- Preview them with `spring run app.groovy` and look at localhost:8080
 
-file a bug
+File a bug
 ==========
 Bugs can be filed using Github Issues
 
-contributing
+Contributing
 =============
 Please read the [contributors' guide](https://github.com/cloudfoundry/cf-release/blob/master/CONTRIBUTING.md)
