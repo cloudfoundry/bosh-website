@@ -3,23 +3,23 @@ bosh-website
 
 [bosh homepage](http://bosh.cloudfoundry.org) 
 
-this site is developed with spring boot. all html and web assets go in the `public` folder.
+This site is developed with Spring Boot. All HTML and Web Assets are present in the `public` folder.
 
-prereqs
+Prereqs
 =======
-<a href="http://projects.spring.io/spring-boot/docs/README.html">get the spring boot cli</a>
+<a href="http://projects.spring.io/spring-boot/docs/README.html">Get the Spring Boot cli</a>
 
-development instructions
+Development Instructions
 ========================
 
-- clone this repository
-- make changes to the web assets in the `public` folder
-- preview them with `spring run app.groovy` and look at localhost:8080
+- Clone this repository
+- Make changes to the web assets in the `public` folder
+- Preview them with `spring run app.groovy` and look at localhost:8080
 
-file a bug
+File a Bug
 ==========
-Bugs can be filed using Github Issues
+Bugs can be filed using Github Issues.
 
-contributing
+Contributing
 =============
-Please read the [contributors' guide](https://github.com/cloudfoundry/cf-release/blob/master/CONTRIBUTING.md)
+Please read the [contributors' guide](https://github.com/cloudfoundry/cf-release/blob/master/CONTRIBUTING.md).
