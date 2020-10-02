@@ -3,7 +3,7 @@ bosh-website
 
 [bosh homepage](http://bosh.cloudfoundry.org) 
 
-this site is developed with spring boot. all html and web assets go in the `public` folder.
+this site is developed with spring boot. All html and web assets store in the `public` folder.
 
 prereqs
 =======
