@@ -5,10 +5,15 @@ bosh-website
 
 this site is developed with spring boot. all html and web assets go in the `public` folder.
 
-prereqs
+This site is developed in Spring Boot.All HTML and Web Assets go in the `public` folder.
+
+
+Pre-Requisite
+prereqs   
 =======
 <a href="http://projects.spring.io/spring-boot/docs/README.html">get the spring boot cli</a>
 
+Development Instructions
 development instructions
 ========================
 
